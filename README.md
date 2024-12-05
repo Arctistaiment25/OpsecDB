@@ -2,9 +2,9 @@
 
 A Opensource Osint Database.
 
-## usage
+## Standard Login
 ```
-meowping.py -- (Into your CMD / READ HOW TO USE!)
+ID: 1 / name: administrator / opsecid: admin
 ```
 
 Requiremets
