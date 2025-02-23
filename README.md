@@ -1,4 +1,4 @@
-## OpsecDB Dies ist ein Test
+## OpsecDB
 
 A Opensource Osint Database.
 
